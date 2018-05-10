@@ -1,0 +1,11 @@
+{
+	"description": "Official and Image Service available payment provider logos",
+	"origamiType": "imageset",
+	"origamiVersion": 1,
+	"support": "https://github.com/Financial-Times/origami-payment-images/issues",
+	"supportContact": {
+		"email": "origami.support@ft.com",
+		"slack": "financialtimes/ft-origami"
+	},
+	"supportStatus": "experimental"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "origami-payment-images",
+  "private": true,
+  "engines": {
+    "node": "^8"
+  },
+  "devDependencies": {
+    "@financial-times/origami-image-set-tools": "^1.5.1"
+  }
+}
